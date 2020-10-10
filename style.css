@@ -1,0 +1,46 @@
+.header{
+    background-color:#537FEA;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center
+}
+
+.description{
+    background-color:#ff6600;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-between
+}
+
+.games{
+    background-color: powderblue;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly 
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.box1{
+    color:#DE2345;
+    box-shadow: inset 0 0 10px 
+}
+.img{
+    align-self: center;
+}
+.align-center{
+    text-align: center;
+}
+.text1{
+    color:#003FF0;
+    text-decoration-line:underline ;
+    text-decoration-color:#90EE90;
+    text-decoration-style:double;
+    letter-spacing: 1.5px;
+    font-family: fantasy;
+}
